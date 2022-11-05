@@ -1,0 +1,21 @@
+#h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+body {
+    color: black;
+    background-color: white;
+}
+
+.night-day-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
